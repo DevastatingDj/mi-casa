@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
+  "homepage": "https://portfolio-f5e.pages.dev",
+  "description": "Portfolio",
+  "repository": "https://github.com/DevastatingDj",
   "author": "Hamish Williams",
   "sideEffects": false,
   "type": "module",
